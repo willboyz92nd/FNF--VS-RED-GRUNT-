@@ -1,0 +1,30 @@
+{
+	"storyName": "YOUR REAL HELL, RUN",
+	"hideFreeplay": false,
+	"weekBackground": "Red",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Run-NOW",
+			"Red-Normal",
+			[
+				255,
+				33,
+				15
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Red"
+}
