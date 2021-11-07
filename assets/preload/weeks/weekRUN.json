@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"run-now",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"red",
+		"bf",
+		"gf"
+	],
+	"storyName": "RUN",
+	"weekName": "weekred",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
